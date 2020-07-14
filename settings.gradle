@@ -1,0 +1,2 @@
+rootProject.name='MyExchange'
+include ':app'
